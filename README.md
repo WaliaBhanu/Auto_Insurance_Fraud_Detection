@@ -2,7 +2,7 @@
 
 This repository contains an end-to-end machine learning pipeline to detect fraudulent insurance claims using **Random Forest** and **Streamlit** for deployment. It handles real-world preprocessing (like frequency, target, and ordinal encoding) and makes predictions interactively.
 
----
+
 
 ## 📦 Features
 
@@ -17,7 +17,6 @@ This repository contains an end-to-end machine learning pipeline to detect fraud
 - Live web app built using Streamlit
 - Interactive form inputs to classify claims as **fraud** or **not fraud**
 
----
 
 ## 🧠 Tech Stack
 
@@ -29,7 +28,5 @@ This repository contains an end-to-end machine learning pipeline to detect fraud
 - Pickle (for saving model)
 - Custom Transformers
 
----
 
-## 📁 Project Structure
 

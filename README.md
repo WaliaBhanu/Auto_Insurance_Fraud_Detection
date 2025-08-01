@@ -29,4 +29,7 @@ This repository contains an end-to-end machine learning pipeline to detect fraud
 - Custom Transformers
 
 
+## Streamlit App
+![App Screenshot](assets/a.png)
+
 
